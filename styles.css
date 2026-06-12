@@ -1,0 +1,26 @@
+body {
+    background-color: #fefae0;
+    font-family: "Times New Roman", serif;
+}
+
+h1, ul {
+    background-color: #e9edc9;
+    height: 100px;
+    width: 600px;
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid #ccd5ae;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    height: 150px;
+}
+
+li {
+    margin: 10px;
+}
